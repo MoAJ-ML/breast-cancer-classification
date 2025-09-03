@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+.ipynb_checkpoints/
+notebooks/*_executed.ipynb
+reports/
+models/
+*.zip
+.DS_Store
+Thumbs.db
+!visualizations/
+
